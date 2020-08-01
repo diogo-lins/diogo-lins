@@ -1,4 +1,22 @@
-### Hi there 👋
+## Hi there 👋
+
+### **A little about my career**
+
+Senior software developer with over 11 years of experience
+
+Currently working as Senior Development Consultant at [ThoughtWorks](https://www.thoughtworks.com/), at the Brazil office
+
+Prior to ThoughtWorks, I worked in several mid to large size companies such as Liferay and Samsung
+
+In the current days, my focus is on working with the Apple environment, building apps for iOS, watchOS, and Apple TV
+
+Current stack and technologies: Swift, Carthage, Cocoapods, Fastlane, Makefile, Java, Javascript, HTML, and CSS
+
+But more important than dev stuff is to work as a team, support people's journeys and be able to add even a little bit to people's lives.
+
+---
+
+Do you want to say hi or talk about something? Feel free to [connect with me on Linkedin](https://www.linkedin.com/in/diogolins/)
 
 <!--
 **diogo-lins/diogo-lins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
