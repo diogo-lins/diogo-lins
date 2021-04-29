@@ -4,9 +4,9 @@
 
 🧑🏾‍💻 &nbsp;Senior software developer with over 11 years of experience;
 
-🔭 &nbsp;Currently working as Senior Development Consultant at [ThoughtWorks](https://www.thoughtworks.com/), at the Brazil office;
+🔭 &nbsp;Currently working as Senior Development Consultant at CESAR, at the Brazil office;
 
-🗝️ &nbsp;Before ThoughtWorks, I worked in several mid to large size companies such as Liferay and Samsung;
+🗝️ &nbsp;Before CESAR, I worked in several mid to large size companies such as ThoughtWorks, Liferay and Samsung;
 
 🍏 &nbsp;In the current days, my focus is on working with the Apple environment, building apps for iOS, watchOS, and Apple TV
 
