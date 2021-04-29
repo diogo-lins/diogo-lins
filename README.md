@@ -8,7 +8,7 @@
 
 🗝️ &nbsp;Before CESAR, I worked in several mid to large size companies such as ThoughtWorks, Liferay and Samsung;
 
-🍏 &nbsp;In the current days, my focus is on working with the Apple environment, building apps for iOS, watchOS, and Apple TV
+🍏 &nbsp;In the current days, my focus is on working with the Apple environment, building apps for iOS, macOS, watchOS, and Apple TV
 
 📚 &nbsp;Current stack and technologies: Swift, Carthage, Cocoapods, Fastlane, Makefile, Java, Javascript, HTML, and CSS
 
