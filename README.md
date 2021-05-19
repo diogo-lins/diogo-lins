@@ -4,13 +4,13 @@
 
 🧑🏾‍💻 &nbsp;Senior software developer with over 11 years of experience;
 
-🔭 &nbsp;Currently working as Senior Development Consultant at CESAR, at the Brazil office;
+🔭 &nbsp;Currently working as Senior Development Consultant at [CESAR](https://www.cesar.org.br/), at the Brazil office;
 
-🗝️ &nbsp;Before CESAR, I worked in several mid to large size companies such as ThoughtWorks, Liferay and Samsung;
+🗝️ &nbsp;Before CESAR, I worked in several mid to large size companies such as [ThoughtWorks](https://www.thoughtworks.com/), [Liferay](https://www.liferay.com/) and Samsung;
 
 🍏 &nbsp;In the current days, my focus is on working with the Apple environment, building apps for iOS, macOS, watchOS, and Apple TV
 
-📚 &nbsp;Current stack and technologies: Swift, Carthage, Cocoapods, Fastlane, Makefile, Java, Javascript, HTML, and CSS
+📚 &nbsp;Current stack and technologies: Swift, Objective-C, Carthage, Cocoapods, Fastlane, Makefile, Java, Javascript, HTML, and CSS. Passionate about DDD and clean architecture. 
 
 👯 &nbsp;But more important than dev stuff is to work as a team, support people's journeys and be able to add even a little bit to people's lives.
 
