@@ -2,7 +2,7 @@
 
 ### **A little about my career**
 
-🧑🏾‍💻 &nbsp;Senior software developer with over 11 years of experience;
+🧑🏾‍💻 &nbsp;Senior software developer with over 12 years of experience;
 
 🔭 &nbsp;Currently working as Senior Development Consultant at [CESAR](https://www.cesar.org.br/), at the Brazil office;
 
@@ -16,7 +16,9 @@
 
 ---
 
-Do you want to say hi or talk about something? Feel free to [connect with me on Linkedin](https://www.linkedin.com/in/diogolins/)
+Do you want to say hi or talk about something? Feel free to connect with me on:
+ 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diogolins/)
 
 <!--
 **diogo-lins/diogo-lins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
