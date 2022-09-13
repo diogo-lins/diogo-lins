@@ -2,11 +2,11 @@
 
 ### **A little about my career**
 
-🧑🏾‍💻 &nbsp;Senior software developer with over 12 years of experience;
+🧑🏾‍💻 &nbsp;Senior software developer with over 13 years of experience;
 
-🔭 &nbsp;Currently working as Senior Development Consultant at [CESAR](https://www.cesar.org.br/), at the Brazil office;
+🔭 &nbsp;Currently working as Senior iOS Developer at [Taller](https://www.tallertechnologies.com/) and (PayPal)[https://www.paypal.com/], remotely;
 
-🗝️ &nbsp;Before CESAR, I worked in several mid to large size companies such as [ThoughtWorks](https://www.thoughtworks.com/), [Liferay](https://www.liferay.com/) and Samsung;
+🗝️ &nbsp;Before Taller/PayPal, I worked in several mid to large size companies such as [ThoughtWorks](https://www.thoughtworks.com/), [Liferay](https://www.liferay.com/) and Samsung;
 
 🍏 &nbsp;In the current days, my focus is on working with the Apple environment, building apps for iOS, macOS, watchOS, and Apple TV
 
